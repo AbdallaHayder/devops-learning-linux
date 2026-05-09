@@ -29,3 +29,4 @@ Completed OverTheWire Bandit levels 1–33.
 - `linux-notes/` → Linux learning notes
 - `bandit/` → Bandit solutions and explanations
 - `screenshots/` → screenshots from exercises and Bandit levels
+SSH authentication configured
