@@ -30,3 +30,22 @@ Completed OverTheWire Bandit levels 1–33.
 - `bandit/` → Bandit solutions and explanations
 - `screenshots/` → screenshots from exercises and Bandit levels
 SSH authentication configured
+
+## Screenshots
+
+Screenshots from terminal work, Git history, and repository structure are available in the `screenshots/` folder.
+
+## Key Skills Practiced
+
+- Linux command line usage
+- SSH authentication
+- Git and GitHub workflow
+- File permissions
+- Process management
+- Text processing with grep/find
+- Troubleshooting Linux environments
+- Bash navigation and scripting
+
+## OverTheWire Bandit
+
+Completed Bandit levels 1–33 to strengthen Linux and terminal problem-solving skills.
