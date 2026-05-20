@@ -95,9 +95,6 @@ SSH login immediately exits because of a custom shell.
 cat /etc/passwd
 more text.txt
 v
-type in vim:
-	set shell=/bin/bash
-:shell
 ```
 
 Used vim escape techniques to access a shell.
