@@ -65,6 +65,12 @@ The report is saved to a timestamped log file.
 
 ---
 
+### 6. Interactive System Monitor (`system_monitor_menu.sh`)
+
+Provides a menu for viewing CPU, memory, disk, and process information while appending selected reports to a timestamped log file.
+
+---
+
 ## Bash Concepts Practiced
 
 - Variables
